@@ -4,5 +4,17 @@
         "course": "Python",
         "address": "+998908801900",
         "name": "Boburbek Burkhanov"
+    },
+    {
+        "id": 2,
+        "course": "Python",
+        "address": "+998908801900",
+        "name": "Boburbek Burkhanov"
+    },
+    {
+        "id": 3,
+        "course": "Node.js",
+        "address": "+998908801900",
+        "name": "Boburbek Burkhanov"
     }
 ]
