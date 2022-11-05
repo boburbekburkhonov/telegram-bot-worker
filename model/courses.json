@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "name":"Node.js",
+    "price":"1 000 000",
+    "desc": "Hammasi siz uchun"
+  },
+  {
+    "id":2,
+    "name":"Python",
+    "price":"1 200 000",
+    "desc": "Eng yaxshi tillardan"
+
+  },
+  {
+    "id":3,
+    "name":"PHP",
+    "price":"900 000",
+    "desc": "Eng eski tillardan"
+  },
+  {
+    "id":4,
+    "name":"C++",
+    "price":"1 100 000",
+    "desc": "Qiyin tillardan"
+  }
+]
